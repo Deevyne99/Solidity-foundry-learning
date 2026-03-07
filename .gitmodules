@@ -10,3 +10,42 @@
 [submodule "CrowdFunding-smart-contract/lib/foundry-devops"]
 	path = CrowdFunding-smart-contract/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "ERC-token-20/lib/forge-std"]
+	path = ERC-token-20/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "ERC-token/lib/forge-std"]
+	path = ERC-token/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "FundMe-contract/lib/forge-std"]
+	path = FundMe-contract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "FundMe-contract/lib/chainlink-brownie-contracts"]
+	path = FundMe-contract/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "lottery-smartcontract/lib/forge-std"]
+	path = lottery-smartcontract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lottery-smartcontract/lib/chainlink-brownie-contracts"]
+	path = lottery-smartcontract/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "lottery-smartcontract/lib/solmate"]
+	path = lottery-smartcontract/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "lottery-smartcontract/lib/foundry-devops"]
+	path = lottery-smartcontract/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "quote-lottery/lib/forge-std"]
+	path = quote-lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Nft-turorial/lib/forge-std"]
+	path = Nft-turorial/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Nft-turorial/lib/openzeppelin-contracts"]
+	path = Nft-turorial/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "voting-smartcontract/lib/forge-std"]
+	path = voting-smartcontract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Nft-turorial/lib/foundry-devops"]
+	path = Nft-turorial/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
